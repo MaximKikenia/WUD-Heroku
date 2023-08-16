@@ -1,0 +1,10 @@
+node_modules/
+
+# frontend
+
+frontend/app_description/
+frontend/node_modules/
+frontend/package.json
+frontend/package-lock.json
+frontend/webpack.config.json
+frontend/.gitignore
